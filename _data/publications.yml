@@ -1,0 +1,82 @@
+main:
+
+  - title: "Language Modeling by Language Models"
+    authors: Junyan Cheng, Peter Clark, Kyle Richardson
+    conference_short: NeurIPS
+    conference: The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.
+    pdf: https://arxiv.org/abs/2506.20249
+    demo: https://genesys.allen.ai/
+    code: https://github.com/allenai/genesys
+    image: ./assets/img/teaser_genesys.png
+    notes: Spotlight (3.19% acceptance rate)
+    
+  - title: "Empirical Asset Pricing with Large Language Model Agents"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: FinAI@ICLR
+    conference: ICLR 2025 Advances in Financial AI Workshop (Long Paper track), 2025.
+    pdf: https://arxiv.org/pdf/2409.17266
+    code: https://github.com/chengjunyan1/AAPM
+    image: ./assets/img/teaser_aapm.png
+
+  - title: "SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: ICLR
+    conference: The Twelfth International Conference on Learning Representations (ICLR), 2024.
+    pdf: https://openreview.net/pdf?id=s9z0HzWJJp
+    code: https://github.com/chengjunyan1/SocioDojo
+    demo: https://gam-gray.vercel.app/
+    image: ./assets/img/teaser_sociodojo.png
+    notes: Spotlight (5.02% acceptance rate)
+
+  - title: "Bridging Neural and Symbolic Representations with Transitional Dictionary Learning"
+    authors: Junyan Cheng, Peter Chin
+    conference_short: ICLR
+    conference: The Twelfth International Conference on Learning Representations (ICLR), 2024.
+    pdf: https://openreview.net/pdf?id=uqxBTcWRnj
+    code: https://github.com/chengjunyan1/TDL
+    image: ./assets/img/teaser_tdl.png
+
+  - title: "Physics Informed Synthetic Image Generation for Deep Learning-Based Detection of Wrinkles and Folds"
+    authors: Omey M Manyar, Junyan Cheng, Reuben Levine, Vihan Krishnan, Jernej Barbič, Satyandra K Gupta
+    conference_short: JCISE
+    conference: Journal of Computing and Information Science in Engineering
+    pdf: https://www.researchgate.net/profile/Omey-Manyar/publication/369142564_PHYSICS_INFORMED_SYNTHETIC_IMAGE_GENERATION_FOR_DEEP_LEARNING_BASED_DETECTION_OF_WRINKLES_AND_FOLDS/links/640b7df7a1b72772e4eb1120/PHYSICS-INFORMED-SYNTHETIC-IMAGE-GENERATION-FOR-DEEP-LEARNING-BASED-DETECTION-OF-WRINKLES-AND-FOLDS.pdf
+    code: https://github.com/RROS-Lab/DeepSynthDefectDetector
+    image: ./assets/img/teaser_layup.png
+    notes: Best Paper Award at ASME IDETC-CIE 2022
+
+  - title: "Multimodal Phased Transformer for Sentiment Analysis"
+    authors: Junyan Cheng*, Iordanis Fostiropoulos*, Barry Boehm, Mohammad Soleymani
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2021.
+    pdf: https://aclanthology.org/2021.emnlp-main.189.pdf
+    code: https://github.com/chengjunyan1/SP-Transformer
+    image: ./assets/img/teaser_spt.png
+
+  - title: "Graph Conditioned Sparse-Attention for Improved Source Code Understanding"
+    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
+    conference_short: arXiv
+    conference: arXiv preprint, arXiv:2112.00663
+    pdf: https://arxiv.org/pdf/2112.00663.pdf
+    code: https://github.com/chengjunyan1/Graph-Sparse-Transformer
+    # acl2021review: https://drive.google.com/file/d/1locy-LVEx6FbrPSuePn64Bch_K2ygfrI/view?usp=sharing
+    image: ./assets/img/teaser_gst.png
+
+  - title: "GN-Transformer: Fusing Sequence and Graph Representation for Improved Code Summarization"
+    authors: Junyan Cheng, Iordanis Fostiropoulos, Barry Boehm
+    conference_short: arXiv
+    conference: arXiv preprint, arXiv:2111.08874
+    pdf: https://arxiv.org/pdf/2111.08874.pdf
+    code: https://github.com/chengjunyan1/GN-Transformer-AST
+    image: ./assets/img/teaser_gnt.png
+
+  - title: "Predicting microRNA-disease associations using bipartite local models and hubness-aware regression"
+    authors: Xing Chen*, Junyan Cheng*, Jun Yin
+    conference_short: RNA biology
+    conference: RNA biology, 2018, VOL. 15, NO. 9, 1192-1205
+    pdf: https://www.tandfonline.com/doi/pdf/10.1080/15476286.2018.1517010
+    code: https://github.com/BLHARMDA/Bipartite-Local-Models-and-hubness-aware-regression
+    image: ./assets/img/teaser_blharmda.png
+
+
+
