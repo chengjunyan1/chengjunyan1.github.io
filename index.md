@@ -8,7 +8,7 @@ I am a fourth-year Ph.D. candidate at Dartmouth College, advised by [Prof. Peter
 I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***, and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
 ### About My Research
-I build complex LLM-agentic systems across forecasting, scientific discovery, software design, and sociotal dynamics. Below are ***live demos*** or webapps of my flagship systems (click to explore):
+I build complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering. Below are ***live demos*** or webapps of my flagship systems (click to explore):
 
 <div class="project-carousel" role="list" aria-label="Flagship systems">
   <div class="project-card project-card--analytica" role="listitem">
