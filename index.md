@@ -39,7 +39,7 @@ I build complex LLM-agentic systems across autonomous scientific discovery, soci
     <div class="project-card__media project-card__media--sociodojo" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">SocioDojo</h4>
-      <p class="project-card__description">LLM agentic lifelong societal modeling and analysis with news feed and real-time data. A "Human World Model".</p>
+      <p class="project-card__description">LLM agentic lifelong societal modeling and analysis with news feed and real-time data flow. A "Human World Model".</p>
       <span class="project-card__meta">ICLR'24 Spotlight</span>
     </div>
   </a>
