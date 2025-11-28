@@ -9,7 +9,7 @@ I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai
 
 ### About My Research
 
-> 🌌 I developed a LLM-agentic system framework [**🧊LLLM**](https://github.com/ChengJunyan1/lllm) that built multiple systems below. Feel free to try and reach out if you want to contribute!
+🌌 *I developed a LLM-agentic system framework [**🧊LLLM**](https://github.com/ChengJunyan1/lllm) that built multiple systems below. Feel free to try and reach out if you want to contribute!*
 
 I build complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering. Below are ***live demos*** or webapps of my flagship systems (click to explore):
 
