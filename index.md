@@ -7,9 +7,10 @@ layout: homepage
 I am a fourth-year Ph.D. candidate at Dartmouth College, advised by [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin) at [LISP Lab](https://lisplab.host.dartmouth.edu/about/), fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, hosted by [Prof. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
 I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***, and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
-🌌 I developed a framework for building LLM-agentic systems [**LLLM**](https://github.com/ChengJunyan1/lllm) that have been used for multiple systems below. Feel free to try and reach out if you are interested in contributing to it!
-
 ### About My Research
+
+> 🌌 I developed a LLM-agentic system framework [**🧊LLLM**](https://github.com/ChengJunyan1/lllm) that built multiple systems below. Feel free to try and reach out if you want to contribute!
+
 I build complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering. Below are ***live demos*** or webapps of my flagship systems (click to explore):
 
 <div class="project-carousel" role="list" aria-label="Flagship systems">
