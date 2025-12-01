@@ -9,7 +9,7 @@ I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai
 
 ### About My Research
 
-I build complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, feel free to try!)**. 
+I built complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, feel free to try!)**. 
 In particular, **I developed a web app [🧠Analytica (Research Preview Demo)](https://analyt1.com/) for LLM-agentic analysis**.
 Check ***live demos*** of my flagship systems below (click to explore):
 
@@ -49,6 +49,9 @@ Check ***live demos*** of my flagship systems below (click to explore):
 </div>
 
 My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics (e.g., world models). I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we still need symbols? it's like why we still need laws, not only education!*). 
+
+
+
 
 
 <!--
