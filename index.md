@@ -12,14 +12,14 @@ I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai
 I build complex LLM-agentic systems across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, feel free to try!)**. Below are ***live demos*** or webapps of my flagship systems (click to explore):
 
 <div class="project-carousel" role="list" aria-label="Flagship systems">
-  <div class="project-card project-card--analytica" role="listitem">
+  <a class="project-card project-card--analytica" role="listitem" href="https://analyt1.com" target="_blank" rel="noopener">
     <div class="project-card__media" aria-hidden="true"></div>
     <div class="project-card__content">
       <h4 class="project-card__title">Analytica</h4>
       <p class="project-card__description">Robust and efficient wide and deep LLM-agentic analysis and forecasting with soft logic and parallel Jupyter Notebook analysts.</p>
-      <span class="project-card__meta">Under review. Webapp coming soon!</span>
+      <span class="project-card__meta">Under Review</span>
     </div>
-  </div>
+  </a>
   <a class="project-card" role="listitem" href="https://genesys.allen.ai" target="_blank" rel="noopener">
     <div class="project-card__media project-card__media--genesys" aria-hidden="true"></div>
     <div class="project-card__content">
