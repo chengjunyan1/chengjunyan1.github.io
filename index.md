@@ -19,7 +19,7 @@ Check ***live demos*** of my flagship systems below (click to explore):
     <div class="project-card__content">
       <h4 class="project-card__title">Analytica</h4>
       <p class="project-card__description">Robust and efficient wide and deep LLM-agentic analysis and forecasting with soft logic and parallel Jupyter Notebook analysts.</p>
-      <span class="project-card__meta">Under Review</span>
+      <span class="project-card__meta">Paper Under Review</span>
     </div>
   </a>
   <a class="project-card" role="listitem" href="https://genesys.allen.ai" target="_blank" rel="noopener">
