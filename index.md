@@ -48,7 +48,7 @@ Check ***live demos*** of my flagship systems below (click to explore):
   </a>
 </div>
 
-My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics. I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we still need symbols? it's like why we need laws!*). 
+My goal is to achieve autonomous systems that can *accurately*, *reliably*, and *efficiently* take over critical real-world domains in long-term large-scale deployments, with a holographic perception of the world dynamics (e.g., world models). I focus on ***Hybrid and Neural-symbolic AI*** that enhances powerful NNs and LLMs with symbolic approaches, such as logic, statistics, programming, and optimization (*why we still need symbols? it's like why we still need laws, not only education!*). 
 
 
 <!--
