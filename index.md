@@ -10,7 +10,7 @@ I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai
 ### About My Research
 
 I built **complex LLM-agentic systems** across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, feel free to try!)**. 
-In particular, **I developed a web app [🧠Analytica (Research Preview Demo)](https://analyt1.com/) for LLM-agentic analysis**.
+In particular, **I developed a web app [🧠Analytica (*Research Preview Demo*)](https://analyt1.com/) for LLM-agentic analysis**.
 Check ***live demos*** of my flagship systems below (click to explore):
 
 <div class="project-carousel" role="list" aria-label="Flagship systems">
