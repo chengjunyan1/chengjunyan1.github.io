@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. candidate at Dartmouth College, advised by [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin) at [LISP Lab](https://lisplab.host.dartmouth.edu/about/), fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, hosted by [Prof. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
-I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), on ***autonomous software engineering***, and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
+I am a fourth-year Ph.D. candidate at Dartmouth College, advised by [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin) at [LISP Lab](https://lisplab.host.dartmouth.edu/about/), fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, NSF Research Traineeship, hosted by [Prof. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
+I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
 ### About My Research
 
-I built **complex LLM-agentic systems** across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, feel free to try!)**. 
+I built **complex LLM-agentic systems** across autonomous scientific discovery, societal systems, and software engineering **(mostly driven by the [🧊LLLM](https://github.com/ChengJunyan1/lllm) framework I developed, please try!)**. 
 In particular, **I developed a web app [🧠Analytica (*Research Preview Demo*)](https://analyt1.com/) for LLM-agentic analysis**.
 Check ***live demos*** of my flagship systems below (click to explore):
 
