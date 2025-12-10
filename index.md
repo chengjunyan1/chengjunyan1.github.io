@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a fourth-year Ph.D. candidate at Dartmouth College, advised by [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin) at [LISP Lab](https://lisplab.host.dartmouth.edu/about/), fully funded by [PhD Innovation Fellowship](https://engineering.dartmouth.edu/graduate/phdi) (Thayer & Tuck collaborative, NSF Research Traineeship, hosted by [Prof. Eric R. Fossum](https://engineering.dartmouth.edu/community/faculty/eric-fossum)). 
-I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/), and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
+I interned in the [AIIL Group](https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/) at [**Microsoft Research Redmond**](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), mentored by [Dr. Jay Stokes](https://www.microsoft.com/en-us/research/people/jstokes/) on *softwared development agents*, and 6 months at the [**Allen Institute for AI (Ai2)**](https://allenai.org/) under [Dr. Kyle Richardson](https://www.nlp-kyle.com/) on ***autonomous scientific discovery***. 
 
 ### About My Research
 
