@@ -42,8 +42,10 @@
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
+    </div>
+    <div>
       {% if link.others %} 
-      {{ link.others }}
+      <i>{{ link.others }}</i>i
       {% endif %}
     </div>
   </div>
