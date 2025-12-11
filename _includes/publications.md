@@ -45,7 +45,7 @@
     </div>
     <div>
       {% if link.others %} 
-      <i>{{ link.others }}</i>i
+      <i>{{ link.others }}</i>
       {% endif %}
     </div>
   </div>
