@@ -44,7 +44,7 @@ main:
     code: https://github.com/RROS-Lab/DeepSynthDefectDetector
     image: ./assets/img/teaser_layup.png
     notes: Best Paper Award at ASME IDETC-CIE 2022 
-    others: A-level conference in ME, contributed vision and generation pipelines
+    others: A-level ME conf., contributed vision and generation pipelines
 
   - title: "Multimodal Phased Transformer for Sentiment Analysis"
     authors: Junyan Cheng*, Iordanis Fostiropoulos*, Barry Boehm, Mohammad Soleymani
